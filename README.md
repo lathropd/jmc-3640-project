@@ -1,2 +1,2 @@
-# jmc-3640-project
+# JMC 3640 project folder
 Starter project for Data Journalism
