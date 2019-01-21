@@ -23,6 +23,7 @@
   "homepage": "https://github.com/lathropd/jmc-3640-project#readme",
   "dependencies": {
     "@antv/g2": "^3.4.10",
+    "brackets-nodejs-integration": "^1.8.19",
     "http-server": "^0.11.1",
     "jsql-official": "^3.3.19",
     "ml": "^3.5.0",
