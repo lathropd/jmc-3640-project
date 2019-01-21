@@ -1,0 +1,33 @@
+{
+  "name": "jmc-3640-project",
+  "version": "0.0.1",
+  "description": "Startup project for JMC 3640 students ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lathropd/jmc-3640-project.git"
+  },
+  "keywords": [
+    "class-project",
+    "uiowa",
+    "boilerplate"
+  ],
+  "author": "",
+  "license": "MIT for code, CC-BY-4.0 for content",
+  "bugs": {
+    "url": "https://github.com/lathropd/jmc-3640-project/issues"
+  },
+  "homepage": "https://github.com/lathropd/jmc-3640-project#readme",
+  "dependencies": {
+    "@antv/g2": "^3.4.10",
+    "http-server": "^0.11.1",
+    "jsql-official": "^3.3.19",
+    "ml": "^3.5.0",
+    "mocha": "^5.2.0",
+    "papaparse": "^4.6.3",
+    "watchify": "^3.11.0"
+  }
+}
